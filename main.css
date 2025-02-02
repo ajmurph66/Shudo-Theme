@@ -1,0 +1,22 @@
+/**
+ * @name Shudo
+ * @author ajmurph
+ * @version 1.0.0
+ * @description Hides the most annoying shit ever and gives more chat space.
+ * @source https://github.com/ajmurph66/Shudo-Theme/
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+@import url('https://raw.githubusercontent.com/B4T3S/DiscordDarkNeon/refs/heads/master/src/hideUsers.scss');
+
+/* Variables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('');
+    --home-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Seal_of_the_Federal_Bureau_of_Investigation.svg/300px-Seal_of_the_Federal_Bureau_of_Investigation.svg.png');
+    --background-solid: #161921;
+    --background-solid-dark: #101218;
+    --background-solid-darker: #0c0e12;
+    --accent: 37, 172, 232;
+    --accent-alt: 29, 101, 134;
+}
